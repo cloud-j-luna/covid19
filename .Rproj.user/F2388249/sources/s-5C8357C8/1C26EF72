@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588334448073.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2525894694",
+    "id" : "1C26EF72",
+    "lastKnownWriteTime" : 1588334479,
+    "last_content_update" : 1588334479,
+    "path" : "~/Programming/R/InfoVis/Covid19/url.txt",
+    "project_path" : "url.txt",
+    "properties" : {
+        "cursorPosition" : "0,44",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}

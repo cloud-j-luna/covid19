@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587408102032.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "CFCF2F57",
+    "lastKnownWriteTime" : 1588334255,
+    "last_content_update" : 1588334255328,
+    "path" : "~/Programming/R/InfoVis/Covid19/helpers.r",
+    "project_path" : "helpers.r",
+    "properties" : {
+        "cursorPosition" : "225,112",
+        "scrollLine" : "214",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
